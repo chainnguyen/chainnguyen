@@ -43,20 +43,120 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chainnguyen&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxtjs" **alt="Nuxtjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescipt" alt="Typescipt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
+   <a href="https://htmlreference.io/" target="_blank" rel="nofollow" title="HTML Reference" style="display: inline-block;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+         alt="HTML" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://cssreference.io/" target="_blank" rel="nofollow" title="CSS Reference" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+         alt="CSS" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://javascript.info/" target="_blank" rel="nofollow" title="Javascript" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+         alt="JavaScript" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="nofollow" title="SASS" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" 
+         alt="Sass" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="nofollow" title="VueJS" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" 
+         alt="Vue" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://nuxtjs.org/" target="_blank" rel="nofollow" title="NuxtJS" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
+         alt="NuxtJS" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="nofollow" title="ReactJS" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+         alt="React" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="nofollow" title="Redux" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+         alt="Redux" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow" title="Typescript" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+         alt="Typescript" 
+         width="40"
+         height="40"/>
+  </a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="nofollow" title="Tailwind" style="display: inline-block">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+         alt="Tailwind" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://gulpjs.com" target="_blank" rel="nofollow" title="Gulp" style="display: inline-block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
+         alt="Gulp" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="nofollow" title="Git" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+         alt="Git" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://github.com/" target="_blank" rel="nofollow" title="Github" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+         alt="Github" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://www.npmjs.com/" target="_blank" rel="nofollow" title="NPM" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" 
+         alt="NPM" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://webpack.js.org" target="_blank" rel="nofollow" title="Webpack" style="display: inline-block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+         alt="Webpack" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://postman.com" target="_blank" rel="nofollow" title="Postman" style="display: inline-block">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+         alt="Postman" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="javascript:void(0)" rel="nofollow" title="Photoshop" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" 
+         alt="Photoshop" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="javascript:void(0)" rel="nofollow" title="Adobe Illustrator" style="display: inline-block">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+         alt="Adobe Illustrator" 
+         width="40" 
+         height="40"/>
+  </a>&nbsp;
+  <a href="https://slack.com/" target="_blank" rel="nofollow" title="Slack" style="display: inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"
+         alt="Slack" 
+         width="40" 
+         height="40"/>
+  </a>
 </div>
 
 ---
