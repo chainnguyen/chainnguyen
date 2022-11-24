@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tin-nguyen-chain-7627b9225/" target="_blank">
+  <a href="https://www.linkedin.com/in/chain-nguyen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0E76A8" alt="LinkedIn Badge"/>
   </a>
   <a href="https://join.skype.com/invite/hdhmUevM7Cl0" target="_blank">
