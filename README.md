@@ -37,11 +37,6 @@
 
 - :zap: Besides accomplish customer requirements, also have to focus on UI/UX, write simplified code and scaling thinking. Let's code as if we will maintain it later.
 
-
-### :hammer_and_wrench: Languages and Tools :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chainnguyen&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
    <a href="https://htmlreference.io/" target="_blank" rel="nofollow" title="HTML Reference" style="display: inline-block;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
@@ -164,5 +159,3 @@
 <a href="https://chainnguyen.github.io/chain-curriculum-vitae/" target="_blank">
   <img src="https://img.shields.io/website?label=my-curriculum-vitae&url=https%3A%2F%2Fchainnguyen.github.io%2Fchain-curriculum-vitae%2F&style=for-the-badge&logo=appveyor&logoColor=white&color=FE7D37" alt="Curriculum Vitae Badge"/>
 </a>
-
-<p>Made by myself :heart:</p>
